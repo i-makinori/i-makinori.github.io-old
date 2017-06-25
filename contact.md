@@ -1,6 +1,5 @@
 ---
-
 layout: default
 ---
 
-this is test 
+# 連絡
