@@ -19,7 +19,7 @@ $ python neuralnet_ai.py
 [github]()
 
 ## パズル組み立て支援システム
-![assets/procon_solve.png](assets/procon_solve.png)
+![assets/procon_solve.png]({{site.url}}/assets/procon_solve.png)
 
 [第27回 高専プロコン 競技部門](https://www.google.co.jp/search?q=%E7%AC%AC27%E5%9B%9E+%E9%AB%98%E5%B0%82%E3%83%97%E3%83%AD%E3%82%B3%E3%83%B3+%E7%AB%B6%E6%8A%80%E9%83%A8%E9%96%80)(おいgoogle)で作成したプログラム  
 物理的に与えられたパズルを、各種の処理の後に、物理的に埋めていく競技である。  
@@ -36,19 +36,20 @@ $ python neuralnet_ai.py
 
 
 ## makinori.github.io
-私が個人のホームページを持ちたいという願望と、インターンに参加しようと思ったことが原因だろう。
-いかなる企業であろうと応募時に履歴書が必要であるという現状において、URLをコピペするだけで個人の概略を示せるという状況は、大いに高速化に繋がると考えられる。
+私が個人のホームページを持ちたいという願望と、インターンに参加しようと思ったことが原因だろう。  
+いかなる企業であろうと応募時に履歴書が必要であるという現状において、URLをコピペするだけで個人の概略を示せるという状況は、長期的には・大いなる高速化に繋がると考えられる。  
+略歴欄に履歴書を辞職して、自己紹介サイトをスタートアップ中と書いた場合に、見向きもせずに放置する企業は、私との適正は低いと思われるかもしれない。
 
 - [github](https://github.com/Makinori/makinori.github.com) このサイトのソースが書かれている
 - [commit log](https://github.com/Makinori/makinori.github.com/commits) このサイトが如何にして立ち上がり、如何にして放置されたかを垣間見ることが出来る
 
 # レポート・プレゼンなど
 
-- [情報技術研究部の新入生歓迎会でのプレゼン](/assets/welcome_presen.pdf)
+- [情報技術研究部の新入生歓迎会でのプレゼン]({{site.url}}/assets/welcome_presen.pdf)
   - その場のノリで作ってしまった。部員向けの自己紹介のプレゼン
-- ["学校時代一番頑張ったことはなんですか？５分程度で説明して下さい"と言われて作ったプレゼンと原稿](assets/5min_intro.pdf)
+- ["学校時代一番頑張ったことはなんですか？５分程度で説明して下さい"と言われて作ったプレゼンと原稿]({{site.url}}/assets/5min_intro.pdf)
   - カットされている部分も結構ある。5分で収めるのは難しい
-- [インターンでの経験](/assets/intern_report.pdf)
+- [インターンでの経験]({{site.url}}/assets/intern_report.pdf)
   - 高専二年の時に参加したインターンの経験
   - 現在、追加で思うことは、
   - 仕様についての質問が不足したために、開発に取り掛かるのが遅くなってしまった。
