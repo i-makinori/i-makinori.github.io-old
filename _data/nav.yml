@@ -1,9 +1,9 @@
 
-- name: "Contact"
-  link: "contact"
-
 - name: "Productions"
   link: "productions"
+
+- name: "Bookmarks"
+  link: "bookmarks"
 
 - name: "Home"
   link: "/"
