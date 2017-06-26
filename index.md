@@ -14,7 +14,6 @@ layout: default
 - 主に長野県長野市に在住。
 
 
-
 # 過去について
 [productions](./productions.html)
 過去の異物(まだ遺物ではない)・レポート・プレゼンなど
