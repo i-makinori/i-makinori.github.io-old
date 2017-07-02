@@ -1,8 +1,3 @@
----
-
-layout: default
----
-
  - program  
    - trash  
      - network-profiler  
@@ -220,6 +215,3 @@ layout: default
        - pygame  
          - [nylo-andry/run-jump-damn: An little platformer game I developped using Pixelman 3 graphic engine.](https://github.com/nylo-andry/run-jump-damn)   
          - [Pythonでゲーム作りますが何か？ - 人工知能に関する断創録](http://aidiary.hatenablog.com/entry/20080507/1269694935)   
-
-
-
