@@ -29,8 +29,11 @@ hr {
 }
 
 img {
-    max-width: 100%;
-    border: 1px solid #eee;
+    border: auto solid #eee;
+
+    max-height: 400px;
+    max-width: 400px;
+
 }
 
 /*
