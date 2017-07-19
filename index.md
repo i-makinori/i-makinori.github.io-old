@@ -3,38 +3,16 @@
 layout: default
 ---
 
-常日頃から娯楽や技術の研究などを嗜む学生。  
-技術の研究では、関数型プログラミング・人工知能・組み込みなど、様々なことを勉強している。  
-熱中し過ぎると、後日に頭痛になるのが悩み。
-
-# 身辺情報
-2017年6月現在
-- 2000年2月 長野県伊那市に 生誕 現在17才
-- 2017年6月 長野工業高等専門学校 電子制御工学科 3学年 在学中  
-- 主に長野県長野市に在住。
+テクノロジ周辺を勉強している長野高専の学生. 空間から計算量を取り出して、人類みんなでキャッキャうふふすることが将来の夢. 人工知能 / 複雑系 / 関数型言語 / 電子工作 / Web / 未来の社会 / などに興味がある
 
 
 # 過去について
 [productions](./productions.html)
-過去の異物(まだ遺物ではない)・レポート・プレゼンなど
+過去の異物・レポート・プレゼンなど
 
 # ブックマーク
 [bookmarks](./bookmarks.html) 
 知っている本・ブラウザのブックマークなどを紹介。(理解したとも・見たとも言っていない)
-
-
-# やりたいこと
-将来的には
-- 知能や計算・群知能などの考察
-- Webや組み込みなども必要に応じ
-- 自然の豊かなところで生活をしたい
-
-最近は
-- パズル問題・画像認識機能付きのサッカーロボット
-- 組み込みプログラミング・電子工作
-- Webフレームワークで個人サイトの作成・関数型言語
-
-などなど
 
 
 
@@ -42,8 +20,8 @@ layout: default
 
 | 方法 | リンク | コメント |
 |--|--|--|
-| github | [Makinori](https://github.com/Makinori) | たまに更新される |
+| github | [Makinori](https://github.com/i-makinori) |
 | mail | [maau3p@gmail.com](maau3p@gmail.com) |
-| twitter | [@i_makinori](https://twitter.com/i_makinori) | 読み込み専用 |
-| blog | [はてなブログ](http://ikemaki.hatenablog.com/) | 廃墟 |
+| twitter | [@i_makinori](https://twitter.com/i_makinori) |
+| blog | [はてなブログ](http://ikemaki.hatenablog.com/) |
  

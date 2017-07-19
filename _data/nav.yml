@@ -7,3 +7,6 @@
 
 - name: "Home"
   link: "/"
+
+- name: "Blog"
+  link: "http://ikemaki.hatenablog.com/"
