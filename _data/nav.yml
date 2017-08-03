@@ -1,12 +1,9 @@
+- name: "Blog"
+  link: "http://ikemaki.hatenablog.com/"
 
 - name: "Productions"
   link: "productions"
 
-- name: "Bookmarks"
-  link: "bookmarks"
-
 - name: "Home"
   link: "/"
 
-- name: "Blog"
-  link: "http://ikemaki.hatenablog.com/"
