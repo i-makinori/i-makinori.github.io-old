@@ -1,12 +1,9 @@
-- name: "Research"
+- name: "研究のテーマ"
   link: "research"
 
-- name: "Blog"
-  link: "http://ikemaki.hatenablog.com/"
-
-- name: "Productions"
+- name: "記述の一部の一部"
   link: "productions"
 
-- name: "Home"
+- name: "記述の中継点"
   link: "/"
 
