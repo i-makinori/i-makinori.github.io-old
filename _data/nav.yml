@@ -1,9 +1,6 @@
-- name: "研究のテーマ"
+- name: "Layer2"
   link: "research"
 
-- name: "記述の一部の一部"
-  link: "productions"
-
-- name: "記述の中継点"
+- name: "Layer1"
   link: "/"
 

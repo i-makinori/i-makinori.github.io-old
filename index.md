@@ -3,46 +3,13 @@
 layout: default
 ---
 
-# 記述について
-T(lambda)~=2018/1/5加筆、飽食状態での記述につき正しくないものが恐らく正しくなるｍｍ。[log(詳細)](https://github.com/i-makinori/i-makinori.github.io/commits/master)。暗い分野に時系列のズレがあかるい。
+# ?: ∃
+計算理論,法則に関する法則,任意概念の記述演算、等に素人程度に興味が有る、実験主義の学者モドキです。  
 
-# 自分自身
-人間(?)の経験の後、n年に渡ってWeb上に存在するn次元情報空間体を歴任。現在は定理集合体等の様々な捏造を持つ。を主な研究中。  
-某Nagano高専の学生を単なる肩書とし、秩序の無矛盾定義べく存在論科学的に混沌黒魔術を主な研究中。  
-この分野に関しては全くの素人なのですが、自分自身、主な研究のテーマ、複雑人工意識生命実験、n次元情報空間n包思念体、、n点自由演算演算素子、複雑記述記述、混沌・秩序、『時・の・終・わ・り・の・プ・ロ・グ・ラ・ム』、等を主な研究中。  
-とりあえず口食べるのを辞めるくらいの十分な櫃まぶしが干し芋配列。  
+### O -(O--O)-> ... ooo ... 
 
 
-# 暗い分野
-
-解らん。全く解らん。<--(lambda.x)--蟻強照巣
-
-| ■■ | 世界の中心の闇を無理やり別けたけもの |
-|--|--|
-| 数学 | 純粋数学 / 科学史 / 関数論<--(圏)--lambda.x / 超空間情報幾何学(軸、動的作用・λ^-1) / スマリアン |
-| 記述法 | SICP・TAPL / 偽日本語の真実 / バベル塔 / ■:■■■■の創り方 / 30万世紀で作るSeKai自作入門 / Arch-tronx-tooGen / e^max・666 / 清水博士は計算論理にお詳しいらしい。 |
-| 物理命体維持法 | 瞑想プログラミング / 千島学説 / 波動医療 / 自然栽培.情報食.主義 / |
-| 知識工学 | 知識データベース破壊記述 / UFO / 存在論 / 子供向けに鬱になる宗教ゲームを作ってみたいものでもある。 |
-| アニメ | lain実験 / Steins;gate / texhnolyze / 私の叫び / matrix / 銀英伝 / 伝勇伝 |
-| 神道 | 哲学 / 日本史・lost technology |
-| 南無参照余白 | 真に驚くべきことに余白を見つけたが余白を記述するには余白が足りない |
-
-
-# 昔昔の話である
-[Productions](./productions.html)
-
-# 重要な研究
-[Research](./research.html)
-
-
-# ワープホール
-
-| 方法 | リンク |
-|--|--|--|
-| 呟き | [@i_makinori](https://twitter.com/i_makinori) |
-| 雑文 | [?golb](http://ikemaki.hatenablog.com/archive) |
-| git | [i-makinori](https://github.com/i-makinori) |
-| 廃伝 | [maau3p@gmail.com](maau3p@gmail.com) |
-| 自分自身 | [自分自身](/) |
- 
-汝.宇宙に平和あらんことを。
+| 寝言 | [@i_makinori](https://twitter.com/i_makinori) |
+| 源 | [i-makinori](https://github.com/i-makinori) |
+| 芋 | [密林原産](http://amzn.asia/3oFWDyR) |
+| 手紙 | [maau3p@gmail.com](maau3p@gmail.com) |

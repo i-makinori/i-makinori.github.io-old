@@ -12,7 +12,6 @@ layout: default
 
 青色の点を、桃色や黒色の点に接触させるだけの簡単なゲーム。  
 もちろんAI(階層型ニューラルネットだが)を搭載させる実験も行っている。  
-マルチエージェントにした上で、Forestを積みたいという野望に常に駆られている  
 
 [github](https://github.com/i-makinori/coin_gather_game)  
 [ブログ書きました](http://ikemaki.hatenablog.com/entry/2017/07/21/192159)
